@@ -25,7 +25,7 @@ Analyzed **5,000 insurance policies across 3,148 customers** using SQL to analyz
 
 **Tools:** MySQL, SQL
 
-🔗 [View SQL Project](YOUR_SQL_REPOSITORY_URL)
+🔗 [View SQL Project](https://github.com/sanjaybalan3294/Insurance-Analytics-SQL.git)
 
 ---
 
@@ -35,7 +35,7 @@ Built an interactive Power BI dashboard to analyze insurance policies, customers
 
 **Tools:** Power BI, DAX, Power Query, Data Modeling
 
-🔗 [View Power BI Project](YOUR_POWERBI_REPOSITORY_URL)
+🔗 [View Power BI Project](https://github.com/sanjaybalan3294/Insurance-Analytics-PowerBI.git)
 
 ## 🎯 Currently Learning
 
