@@ -21,15 +21,21 @@ I enjoy working with data to identify trends, generate insights, and support dat
 
 ### 1. Insurance Analytics – SQL
 
-Analyzed 5,000 insurance policies across 3,148 customers using SQL to understand policy distribution, customer demographics, premiums, claims, and payments.
+Analyzed **5,000 insurance policies across 3,148 customers** using SQL to analyze policy distribution, customer demographics, premiums, claims, and payments.
 
 **Tools:** MySQL, SQL
+
+🔗 [View SQL Project](YOUR_SQL_REPOSITORY_URL)
+
+---
 
 ### 2. Insurance Analytics – Power BI
 
 Built an interactive Power BI dashboard to analyze insurance policies, customers, premiums, claims, payments, and policy expirations.
 
 **Tools:** Power BI, DAX, Power Query, Data Modeling
+
+🔗 [View Power BI Project](YOUR_POWERBI_REPOSITORY_URL)
 
 ## 🎯 Currently Learning
 
