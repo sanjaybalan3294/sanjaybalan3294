@@ -141,7 +141,6 @@ I'm an aspiring **Data Analyst** passionate about turning raw data into clear, a
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanjay-balan/)
-- 💻 [GitHub](https://github.com/sanjaybalan3294)
 - 📧 sanjaybalan3294@gmail.com
 
 ---
