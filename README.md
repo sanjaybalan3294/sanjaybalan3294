@@ -36,7 +36,7 @@ I'm an aspiring **Data Analyst** passionate about turning raw data into clear, a
 ### 📊 Featured Projects
 
 **1. HR Analytics – SQL**
-🔗 [github.com/sanjaybalan3294/HR-Analytics-SQL](https://github.com/sanjaybalan3294/HR-Analytics-SQL)
+🔗[View Project](https://github.com/sanjaybalan3294/HR-Analytics-SQL)
 - Analyzed 50,000 employee records using MySQL
 - Calculated a 50.21% employee attrition rate
 - Examined salary, overtime, departments, job roles, work-life balance, and promotion trends
@@ -44,20 +44,20 @@ I'm an aspiring **Data Analyst** passionate about turning raw data into clear, a
 - Identified 24,861 employees working overtime and a highest monthly income of 50,999
 
 **2. HR Analytics – Power BI**
-🔗 [github.com/sanjaybalan3294/HR-Analytics-PowerBI](https://github.com/sanjaybalan3294/HR-Analytics-PowerBI)
+🔗 [View Project](https://github.com/sanjaybalan3294/HR-Analytics-PowerBI)
 - Built an interactive HR Analytics dashboard
 - Analyzed employee attrition, salary, departments, job roles, overtime, work-life balance, and workforce trends
 - Used Power BI, DAX, Power Query, and data modeling
 - Created KPIs, charts, filters, and interactive visualizations
 
 **3. Insurance Analytics – SQL**
-🔗 [github.com/sanjaybalan3294/Insurance-Analytics-SQL](https://github.com/sanjaybalan3294/Insurance-Analytics-SQL)
+🔗 [View Project](https://github.com/sanjaybalan3294/Insurance-Analytics-SQL)
 - Analyzed 5,000 insurance policies across 3,148 customers using MySQL
 - Explored customer demographics, policy distribution, premiums, claims, payments, and policy expirations
 - Applied SQL aggregation, JOINs, filtering, grouping, and date-based analysis
 
 **4. Insurance Analytics – Power BI**
-🔗 [github.com/sanjaybalan3294/Insurance-Analytics-PowerBI](https://github.com/sanjaybalan3294/Insurance-Analytics-PowerBI)
+🔗 [View Project](https://github.com/sanjaybalan3294/Insurance-Analytics-PowerBI)
 - Built an interactive insurance analytics dashboard
 - Analyzed policies, customers, premiums, claims, payments, and policy expirations
 - Used Power BI, DAX, Power Query, and data modeling
