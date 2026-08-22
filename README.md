@@ -63,7 +63,7 @@ I'm an aspiring **Data Analyst** passionate about turning raw data into clear, a
 - Used Power BI, DAX, Power Query, and data modeling
 
 -**5 Insurance Analytics – Tableau**  
-🔗 [View Project](YOUR_TABLEAU_GITHUB_LINK)
+🔗 [View Project](https://github.com/sanjaybalan3294/Insurance-Analytics-Tableau)
 
 - Built an interactive Tableau dashboard to analyze insurance policies, customers, premiums, claims, payments, and policy expirations
 - Created visualizations to identify trends across customer demographics, policy types, and claim performance
