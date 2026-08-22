@@ -62,6 +62,16 @@ I'm an aspiring **Data Analyst** passionate about turning raw data into clear, a
 - Analyzed policies, customers, premiums, claims, payments, and policy expirations
 - Used Power BI, DAX, Power Query, and data modeling
 
+-**5 Insurance Analytics – Tableau**  
+🔗 [View Project](YOUR_TABLEAU_GITHUB_LINK)
+
+- Built an interactive Tableau dashboard to analyze insurance policies, customers, premiums, claims, payments, and policy expirations
+- Created visualizations to identify trends across customer demographics, policy types, and claim performance
+- Analyzed premium trends by policy year and policy expiration patterns
+- Used Tableau calculations, filters, dashboards, and interactive visualizations to generate business insights
+
+**Tools:** Tableau, Data Visualization, Data Analysis
+
 ---
 
 ### 📚 Currently Learning
