@@ -1,49 +1,130 @@
 <h1 align="center">Hi 👋, I'm Sanjay Balan</h1>
-<h3 align="center">Data Analyst | SQL • Power BI • Python</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjay-balan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sanjaybalan3294@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Python</h3>
 
 ---
 
 ### 🚀 About Me
 
-I'm a Data Analyst who enjoys turning messy, raw data into insights people can actually act on. My day-to-day toolkit is **SQL and Power BI** — writing queries to dig into datasets and building dashboards that surface trends for business decisions. I'm currently deepening my **Python** skills to round out an end-to-end analytics workflow, from data cleaning to visualization.
+I'm an aspiring *Data Analyst* passionate about turning raw data into clear, actionable insights. I enjoy working with SQL and Power BI to explore datasets, build dashboards, and uncover trends that support business decisions. I'm currently expanding my skill set into Python for data analysis to strengthen my end-to-end analytics workflow.
 
 ---
 
 ### 🛠️ Technical Skills
 
-| Category | Tools |
-|---|---|
-| **Languages & Querying** | SQL, MySQL, Python |
-| **BI & Visualization** | Power BI, DAX, Power Query, Microsoft Excel |
-| **Python Libraries** | Pandas, Matplotlib, Seaborn |
-| **Core Competencies** | Data Analysis, EDA, Data Visualization, Data Modeling |
+*Languages & Querying*
+- SQL / MySQL
+- Python
+
+*Data Visualization & BI*
+- Power BI
+- DAX
+- Power Query
+- Microsoft Excel
+- Tableau
+
+*Python Libraries*
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+*Core Competencies*
+- Data Analysis
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Correlation Analysis
+- Insight Generation
 
 ---
 
 ### 📊 Featured Projects
 
-**🔹 [HR Analytics – SQL](https://github.com/sanjaybalan3294/HR-Analytics-SQL)**
-Analyzed 50,000 employee records in MySQL to uncover a 50.21% attrition rate, including salary, overtime, and promotion trends. Used JOINs, aggregation, CASE statements, subqueries, and GROUP BY to flag 24,861 overtime employees and a peak monthly income of ₹50,999.
+*1. HR Analytics – SQL*  
+🔗 [View Project](https://github.com/sanjaybalan3294/HR-Analytics-SQL)
 
-**🔹 [HR Analytics – Power BI](https://github.com/sanjaybalan3294/HR-Analytics-PowerBI)**
-Built an interactive dashboard covering attrition, salary, departments, and workforce trends — with DAX measures, Power Query transformations, and data modeling behind the KPIs, charts, and filters.
+- Analyzed 50,000 employee records using MySQL
+- Calculated a 50.21% employee attrition rate
+- Examined salary, overtime, departments, job roles, work-life balance, and promotion trends
+- Applied SQL JOINs, aggregation, CASE statements, subqueries, GROUP BY, and ORDER BY
+- Identified 24,861 employees working overtime and a highest monthly income of 50,999
 
-**🔹 [Insurance Analytics – SQL](https://github.com/sanjaybalan3294/Insurance-Analytics-SQL)**
-Explored 5,000 policies across 3,148 customers in MySQL, analyzing demographics, premiums, claims, payments, and policy expirations using aggregation, JOINs, filtering, and date-based analysis.
+*Tools:* MySQL, SQL, Data Analysis
 
-**🔹 [Insurance Analytics – Power BI](https://github.com/sanjaybalan3294/Insurance-Analytics-PowerBI)**
-Turned the same insurance dataset into an interactive dashboard tracking policies, premiums, claims, and expirations, built with Power BI, DAX, and Power Query.
+---
+
+*2. HR Analytics – Power BI*  
+🔗 [View Project](https://github.com/sanjaybalan3294/HR-Analytics-PowerBI)
+
+- Built an interactive HR Analytics dashboard
+- Analyzed employee attrition, salary, departments, job roles, overtime, work-life balance, and workforce trends
+- Used Power BI, DAX, Power Query, and data modeling
+- Created KPIs, charts, filters, and interactive visualizations
+
+*Tools:* Power BI, DAX, Power Query, Data Visualization
+
+---
+
+*3. Insurance Analytics – SQL*  
+🔗 [View Project](https://github.com/sanjaybalan3294/Insurance-Analytics-SQL)
+
+- Analyzed 5,000 insurance policies across 3,148 customers using MySQL
+- Explored customer demographics, policy distribution, premiums, claims, payments, and policy expirations
+- Applied SQL aggregation, JOINs, filtering, grouping, and date-based analysis
+- Identified Property as the highest-expiring policy type with 134 policies expiring in 2026
+- Quantified more than 251M in total claim value through SQL aggregation
+
+*Tools:* MySQL, SQL, Data Analysis
+
+---
+
+*4. Insurance Analytics – Power BI*  
+🔗 [View Project](https://github.com/sanjaybalan3294/Insurance-Analytics-PowerBI)
+
+- Built an interactive insurance analytics dashboard
+- Analyzed policies, customers, premiums, claims, payments, and policy expirations
+- Created KPI cards, charts, slicers, filters, and interactive dashboard views
+- Used Power BI, DAX, Power Query, and data modeling to generate business insights
+
+*Tools:* Power BI, DAX, Power Query, Data Visualization
+
+---
+
+*5. Insurance Analytics – Tableau*  
+🔗 [View Project](https://github.com/sanjaybalan3294/Insurance-Analytics-Tableau)
+
+- Built an interactive Tableau dashboard to analyze insurance policies, customers, premiums, claims, payments, and policy expirations
+- Created visualizations to identify trends across customer demographics, policy types, and claim performance
+- Analyzed premium trends by policy year and policy expiration patterns
+- Used Tableau calculations, filters, dashboards, and interactive visualizations to generate business insights
+
+*Tools:* Tableau, Data Visualization, Data Analysis
+
+---
+
+*6. Movie Industry Correlation Analysis – Python*  
+🔗 [View Project](https://github.com/sanjaybalan3294/Movie-Correlation-Analysis-Python)
+
+- Analyzed movie industry data using Python, Pandas, NumPy, Matplotlib, and Seaborn
+- Performed data cleaning, missing-value treatment, duplicate checks, and Exploratory Data Analysis (EDA)
+- Conducted correlation analysis across budget, gross revenue, votes, ratings, runtime, and other movie attributes
+- Identified budget as the strongest variable associated with gross earnings with a *0.74 correlation*
+- Identified audience votes as another strong factor associated with gross earnings with a *0.61 correlation*
+- Created scatter plots, regression plots, and correlation heatmaps to visualize relationships and communicate findings
+
+*Tools:* Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 ---
 
 ### 📚 Currently Learning
 
-Python for Data Analysis · Pandas · Matplotlib · Seaborn · Exploratory Data Analysis · Statistical Analysis
+- Python for Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
 
 ---
 
@@ -52,12 +133,16 @@ Python for Data Analysis · Pandas · Matplotlib · Seaborn · Exploratory Data 
 - Business Intelligence & Dashboarding
 - Data Cleaning & Exploratory Data Analysis
 - SQL-based Data Modeling
+- Correlation & Statistical Analysis
 - Data Storytelling & Visualization
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/sanjay-balan/) &nbsp;•&nbsp; 📧 [sanjaybalan3294@gmail.com](mailto:sanjaybalan3294@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanjay-balan/)
+- 📧 sanjaybalan3294@gmail.com
 
-<p align="center"><i>Open to Data Analyst opportunities — always happy to connect and talk data!</i></p>
+---
+
+<p align="center"><i>Open to Data Analyst opportunities — always happy to connect and discuss data!</i></p>
