@@ -66,7 +66,7 @@ I'm an aspiring *Data Analyst* passionate about turning raw data into clear, act
 ---
 
 *3. HR Analytics – Tableau*  
-🔗 [View Project]([YOUR_HR_ANALYTICS_TABLEAU_GITHUB_LINK](https://github.com/sanjaybalan3294/HR-Analytics-Tableau))
+🔗 [View Project](https://github.com/sanjaybalan3294/HR-Analytics-Tableau)
 
 - Built an interactive Tableau dashboard to analyze 50,000 employee records across attrition, income, work-life balance, departments, gender, and promotion trends
 - Identified an overall employee attrition rate of 50.21%
