@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanjay Balan</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Python</h3>
+<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Python | Tableau</h3>
 
 ---
 
 ### 🚀 About Me
 
-I'm an aspiring *Data Analyst* passionate about turning raw data into clear, actionable insights. I enjoy working with SQL and Power BI to explore datasets, build dashboards, and uncover trends that support business decisions. I'm currently expanding my skill set into Python for data analysis to strengthen my end-to-end analytics workflow.
+I'm an aspiring *Data Analyst* passionate about turning raw data into clear, actionable insights. I enjoy working with SQL, Power BI, and Tableau to explore datasets, build dashboards, and uncover trends that support business decisions. I'm currently expanding my skill set in Python for data analysis to strengthen my end-to-end analytics workflow.
 
 ---
 
@@ -17,10 +17,10 @@ I'm an aspiring *Data Analyst* passionate about turning raw data into clear, act
 
 *Data Visualization & BI*
 - Power BI
+- Tableau
 - DAX
 - Power Query
 - Microsoft Excel
-- Tableau
 
 *Python Libraries*
 - Pandas
@@ -65,7 +65,21 @@ I'm an aspiring *Data Analyst* passionate about turning raw data into clear, act
 
 ---
 
-*3. Insurance Analytics – SQL*  
+*3. HR Analytics – Tableau*  
+🔗 [View Project](YOUR_HR_ANALYTICS_TABLEAU_GITHUB_LINK)
+
+- Built an interactive Tableau dashboard to analyze 50,000 employee records across attrition, income, work-life balance, departments, gender, and promotion trends
+- Identified an overall employee attrition rate of 50.21%
+- Created KPI cards for total employees, attrition rate, average age, average hourly rate, and monthly income
+- Analyzed work-life balance across job roles and average working years across departments
+- Compared attrition patterns across monthly income, gender, and years since last promotion
+- Added interactive filters for Education Field, Gender, Department, and Job Role to support deeper workforce analysis
+
+*Tools:* Tableau, Data Visualization, Data Analysis, Dashboard Design
+
+---
+
+*4. Insurance Analytics – SQL*  
 🔗 [View Project](https://github.com/sanjaybalan3294/Insurance-Analytics-SQL)
 
 - Analyzed 5,000 insurance policies across 3,148 customers using MySQL
@@ -78,7 +92,7 @@ I'm an aspiring *Data Analyst* passionate about turning raw data into clear, act
 
 ---
 
-*4. Insurance Analytics – Power BI*  
+*5. Insurance Analytics – Power BI*  
 🔗 [View Project](https://github.com/sanjaybalan3294/Insurance-Analytics-PowerBI)
 
 - Built an interactive insurance analytics dashboard
@@ -90,7 +104,7 @@ I'm an aspiring *Data Analyst* passionate about turning raw data into clear, act
 
 ---
 
-*5. Insurance Analytics – Tableau*  
+*6. Insurance Analytics – Tableau*  
 🔗 [View Project](https://github.com/sanjaybalan3294/Insurance-Analytics-Tableau)
 
 - Built an interactive Tableau dashboard to analyze insurance policies, customers, premiums, claims, payments, and policy expirations
@@ -102,7 +116,7 @@ I'm an aspiring *Data Analyst* passionate about turning raw data into clear, act
 
 ---
 
-*6. Movie Industry Correlation Analysis – Python*  
+*7. Movie Industry Correlation Analysis – Python*  
 🔗 [View Project](https://github.com/sanjaybalan3294/Movie-Correlation-Analysis-Python)
 
 - Analyzed movie industry data using Python, Pandas, NumPy, Matplotlib, and Seaborn
