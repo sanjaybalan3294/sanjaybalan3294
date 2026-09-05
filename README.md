@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanjaybalan3294&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-success" alt="Open to Roles" />
-  <img src="https://img.shields.io/badge/Markets-India%20%26%20UAE-orange" alt="Target Markets" />
 </p>
 
 ---
