@@ -59,7 +59,7 @@ I'm an aspiring **Data Analyst** passionate about turning raw data into clear, a
 </p>
 
 * **Languages & Databases:** Python, SQL (MySQL)
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **BI Tools & Spreadsheets:** Power BI, Microsoft Excel
 * **Tools & Platforms:** Git, GitHub, Jupyter Notebook
 
