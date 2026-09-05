@@ -55,6 +55,8 @@ I'm an aspiring **Data Analyst** passionate about turning raw data into clear, a
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
 ---
