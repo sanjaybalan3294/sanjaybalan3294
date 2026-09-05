@@ -51,10 +51,19 @@ I'm an aspiring **Data Analyst** passionate about turning raw data into clear, a
 * Correlation Analysis
 * Insight Generation
 
+  
+## 🛠️ Tech Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github" alt="Tech Stack" />
- 
 </p>
+
+* **Languages & Databases:** Python, SQL (MySQL)
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+* **BI Tools & Spreadsheets:** Power BI, Microsoft Excel
+* **Tools & Platforms:** Git, GitHub, Jupyter Notebook
+
+---
 
 ---
 
