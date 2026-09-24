@@ -1,190 +1,154 @@
-<h1 align="center">Hi, I'm Sanjay Balan 👋</h1>
-<p align="center">
-  <b>Data Analyst | SQL | Power BI | Tableau | Python</b>
-</p>
-<p align="center">
-  Turning raw data into business decisions
-</p>
-<p align="center">
+<div align="center">
 
-</p>
+  <h1>Hey there, I'm <span style="color: #2563EB;">Sanjay Balan</span> 👋</h1>
 
----
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=45&lines=Data+Analyst+%7C+BI+%26+Analytics+Specialist;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python;Turning+Data+into+Actionable+Business+Decisions;AICTE+%7C+IBM+SkillsBuild+Project+Alum" alt="Typing SVG" />
+  </a>
 
-## 🚀 About Me
+  <p align="center">
+    <b>Aspiring Data Analyst | SQL • Power BI • Tableau • Python • Machine Learning</b><br>
+    <i>Turning raw data into predictive intelligence, intuitive dashboards, and high-impact business decisions.</i>
+  </p>
 
-I'm an aspiring **Data Analyst** passionate about turning raw data into clear, actionable insights. I enjoy working with SQL, Power BI, and Tableau to explore datasets, build dashboards, and uncover trends that support business decisions. I'm currently expanding my skill set in Python for data analysis to strengthen my end-to-end analytics workflow.
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sanjay-balan/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://sanjay-balan-portfolio.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:sanjaybalan3294@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/sanjaybalan3294" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-* 💼 6-month Data Analyst internship at Ai Variant — analyzed 54,771 client sales transactions across 17,935 customers and 606 products
-* 📈 Automated recurring Excel reports (XLOOKUP, calculated fields, Pivot Tables/Charts) to standardize regional and product reporting
-* 🤝 Collaborated with a 5-person analytics team and senior management to define and validate KPIs
-* 🎓 BE in Computer Science and Technology, SNS College of Engineering
-* 📜 Certificate Program in Data Analyst (Cohort 3)
-* 📍 Based in Coimbatore, Tamil Nadu, India — open to opportunities in India & UAE
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=sanjaybalan3294&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Open%20To-India%20%7C%20UAE%20%7C%20Remote-success?style=flat-square" alt="Open to Work" />
+  </p>
 
----
-
-## 🛠️ Technical Skills
-
-**Languages & Querying**
-* SQL / MySQL
-* Python
-
-**Data Visualization & BI**
-* Power BI
-* Tableau
-* DAX
-* Power Query
-* Microsoft Excel
-
-**Python Libraries**
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-
-**Core Competencies**
-* Data Analysis
-* Data Cleaning
-* Data Visualization
-* Exploratory Data Analysis (EDA)
-* Correlation Analysis
-* Insight Generation
-
-  
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" alt="Tech Stack" />
-</p>
-
-* **Languages & Databases:** Python, SQL (MySQL)
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-* **BI Tools & Spreadsheets:** Power BI, Tableau, Microsoft Excel
-* **Tools & Platforms:** Git, GitHub, Jupyter Notebook
+</div>
 
 ---
 
----
+## 📌 About Me
 
-## 📊 Featured Projects
+I am a results-oriented **Data Analyst** passionate about transforming complex datasets into clear, actionable business strategies. With hands-on experience spanning end-to-end data analytics pipelines, exploratory data analysis (EDA), relational databases, and predictive modeling, I bridge the gap between technical data and executive decision-making.
 
-### 1. HR Analytics – SQL
-🔗 [View Project](https://github.com/sanjaybalan3294/HR-Analytics-SQL)
-* Analyzed 50,000 employee records using MySQL
-* Calculated a 50.21% employee attrition rate
-* Examined salary, overtime, departments, job roles, work-life balance, and promotion trends
-* Applied SQL JOINs, aggregation, CASE statements, subqueries, GROUP BY, and ORDER BY
-* Identified 24,861 employees working overtime and a highest monthly income of 50,999
-
-*Tools:* MySQL, SQL, Data Analysis
-
-### 2. HR Analytics – Power BI
-🔗 [View Project](https://github.com/sanjaybalan3294/HR-Analytics-PowerBI)
-* Built an interactive HR Analytics dashboard
-* Analyzed employee attrition, salary, departments, job roles, overtime, work-life balance, and workforce trends
-* Used Power BI, DAX, Power Query, and data modeling
-* Created KPIs, charts, filters, and interactive visualizations
-
-*Tools:* Power BI, DAX, Power Query, Data Visualization
-
-### 3. HR Analytics – Tableau
-🔗 [View Project](https://github.com/sanjaybalan3294/HR-Analytics-Tableau)
-* Built an interactive Tableau dashboard analyzing 50,000 employee records across attrition, income, work-life balance, departments, gender, and promotion trends
-* Identified an overall employee attrition rate of 50.21%
-* Created KPI cards for total employees, attrition rate, average age, average hourly rate, and monthly income
-* Analyzed work-life balance across job roles and average working years across departments
-* Compared attrition patterns across monthly income, gender, and years since last promotion
-* Added interactive filters for Education Field, Gender, Department, and Job Role
-
-*Tools:* Tableau, Data Visualization, Data Analysis, Dashboard Design
-
-### 4. Insurance Analytics – SQL
-🔗 [View Project](https://github.com/sanjaybalan3294/Insurance-Analytics-SQL)
-* Analyzed 5,000 insurance policies across 3,148 customers using MySQL
-* Explored customer demographics, policy distribution, premiums, claims, payments, and policy expirations
-* Applied SQL aggregation, JOINs, filtering, grouping, and date-based analysis
-* Identified Property as the highest-expiring policy type with 134 policies expiring in 2026
-* Quantified more than 251M in total claim value through SQL aggregation
-
-*Tools:* MySQL, SQL, Data Analysis
-
-### 5. Insurance Analytics – Power BI
-🔗 [View Project](https://github.com/sanjaybalan3294/Insurance-Analytics-PowerBI)
-* Built an interactive insurance analytics dashboard
-* Analyzed policies, customers, premiums, claims, payments, and policy expirations
-* Created KPI cards, charts, slicers, filters, and interactive dashboard views
-* Used Power BI, DAX, Power Query, and data modeling to generate business insights
-
-*Tools:* Power BI, DAX, Power Query, Data Visualization
-
-### 6. Insurance Analytics – Tableau
-🔗 [View Project](https://github.com/sanjaybalan3294/Insurance-Analytics-Tableau)
-* Built an interactive Tableau dashboard analyzing insurance policies, customers, premiums, claims, payments, and policy expirations
-* Created visualizations to identify trends across customer demographics, policy types, and claim performance
-* Analyzed premium trends by policy year and policy expiration patterns
-* Used Tableau calculations, filters, dashboards, and interactive visualizations
-
-*Tools:* Tableau, Data Visualization, Data Analysis
-
-### 7. Movie Industry Correlation Analysis – Python
-🔗 [View Project](https://github.com/sanjaybalan3294/Movie-Correlation-Analysis-Python)
-* Analyzed movie industry data using Python, Pandas, NumPy, Matplotlib, and Seaborn
-* Performed data cleaning, missing-value treatment, duplicate checks, and Exploratory Data Analysis (EDA)
-* Conducted correlation analysis across budget, gross revenue, votes, ratings, runtime, and other movie attributes
-* Identified budget as the strongest variable associated with gross earnings with a **0.74 correlation**
-* Identified audience votes as another strong factor associated with gross earnings with a **0.61 correlation**
-* Created scatter plots, regression plots, and correlation heatmaps to visualize relationships
-
-*Tools:* Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+- 💼 **Industry Experience**: Completed a 6-month Data Analyst Internship at **Ai Variant**, analyzing **54,771 client sales transactions** across **17,935 customers** and **606 products**. Standardized regional reporting and automated repetitive workflows using advanced Excel (XLOOKUP, Pivot Tables, calculated fields).
+- 🏛️ **IBM SkillsBuild / AICTE Capstone**: Architected and deployed the **AI Workforce Intelligence & Disruption Analytics** system—executing a 4-Tier Analytics Ladder on **30,000 labor records** with Scikit-learn predictive models and an interactive Streamlit intelligence app.
+- 🎓 **Education & Certifications**: 
+  - **B.E. in Computer Science and Technology** – SNS College of Engineering
+  - **Certified Data Analyst** – Cohort 3 Program
+  - **AICTE | IBM SkillsBuild Internship Certificate**
+- 🎯 **Core Focus**: Business Intelligence, Exploratory Data Analysis, KPI Architecture, Predictive Modeling, and Executive Dashboarding.
+- 🌍 **Current Status**: Based in Coimbatore, Tamil Nadu, India — actively pursuing full-time Data Analyst opportunities in **India, UAE, and Remote worldwide**.
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Technical Skills & Tooling
 
-* Python for Data Analysis
-* Pandas, NumPy, Matplotlib, Seaborn
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,mysql,powerbi,tableau,excel,git,github,vscode" alt="Tech Stack Icons" />
+</div>
+
+<br>
+
+| Domain | Technologies & Competencies |
+| :--- | :--- |
+| **Languages & Querying** | Python (3.12), SQL (MySQL), DAX, Power Query (M) |
+| **Business Intelligence** | Microsoft Power BI, Tableau Desktop & Public, Interactive Dashboards |
+| **Data Science & ML** | Pandas, NumPy, Scikit-Learn, Streamlit, Matplotlib, Seaborn |
+| **Spreadsheets & Reporting**| Microsoft Excel (Advanced formulas, XLOOKUP, Pivot Tables, Data Modeling) |
+| **Core Methodologies** | Exploratory Data Analysis (EDA), Statistical & Correlation Analysis, ETL, Data Cleaning |
+| **Tools & Platforms** | Git, GitHub, VS Code, Jupyter Notebook, Google Colab |
 
 ---
 
-## 🎯 Areas of Interest
+## 🚀 Featured Projects
 
-* Business Intelligence & Dashboarding
-* Data Cleaning & Exploratory Data Analysis
-* SQL-based Data Modeling
-* Correlation & Statistical Analysis
-* Data Storytelling & Visualization
+### 1. 🌐 AI Workforce Intelligence & Disruption Analytics
+> **Flagship AICTE | IBM SkillsBuild Project** • *Python, Scikit-Learn, Streamlit, Pandas, NumPy*
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-2563EB?style=flat-square&logo=github)](https://github.com/sanjaybalan3294/AI-Workforce-Analytics-Job-Disruption-Intelligence)
+
+- **Problem & Scope**: Analyzed **30,000 workforce observations** across 8 global markets and 8 industries to diagnose the structural impact of generative AI and automation on jobs.
+- **Methodology**: Built a full **4-Tier Analytics Ladder** (Descriptive ➔ Diagnostic ➔ Predictive ➔ Prescriptive).
+- **Machine Learning**: Trained and evaluated predictive classification models (Random Forest, XGBoost) to forecast job disruption risk tiers with high precision.
+- **Deliverable**: Production-ready, multi-page **Streamlit interactive application**, automated report generators, and executive documentation.
 
 ---
 
-## 📈 GitHub Stats
+### 2. 👥 HR Workforce & Attrition Analytics Suite
+> **Cross-Platform Analytics** • *MySQL, Power BI, Tableau*
+
+[![SQL Repo](https://img.shields.io/badge/SQL-View_Project-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/sanjaybalan3294/HR-Analytics-SQL)
+[![Power BI Repo](https://img.shields.io/badge/Power_BI-View_Project-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/sanjaybalan3294/HR-Analytics-PowerBI)
+[![Tableau Repo](https://img.shields.io/badge/Tableau-View_Project-E97627?style=flat-square&logo=tableau&logoColor=white)](https://github.com/sanjaybalan3294/HR-Analytics-Tableau)
+
+- **Dataset**: Comprehensive organizational dataset with **50,000 employee records**.
+- **Key Findings**: Diagnosed a **50.21% baseline attrition rate**; isolated extreme attrition risk among **24,861 employees working overtime**.
+- **SQL Analysis**: Utilized multi-table JOINs, window functions, conditional aggregations, and subqueries to profile monthly income benchmarks ($50,999 max).
+- **BI Visualizations**: Designed interactive Power BI and Tableau dashboards tracking department turnover, work-life balance ratings, and promotion velocity.
+
+---
+
+### 3. 🛡️ Insurance Portfolio Risk & Claims Analytics
+> **Actuarial & Business Intelligence** • *MySQL, Power BI, Tableau*
+
+[![SQL Repo](https://img.shields.io/badge/SQL-View_Project-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/sanjaybalan3294/Insurance-Analytics-SQL)
+[![Power BI Repo](https://img.shields.io/badge/Power_BI-View_Project-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/sanjaybalan3294/Insurance-Analytics-PowerBI)
+[![Tableau Repo](https://img.shields.io/badge/Tableau-View_Project-E97627?style=flat-square&logo=tableau&logoColor=white)](https://github.com/sanjaybalan3294/Insurance-Analytics-Tableau)
+
+- **Dataset**: **5,000 insurance policies** across **3,148 unique customers**.
+- **Claims Analysis**: Aggregated and monitored over **$251M+ in total claim liability** across policy types.
+- **Risk & Expirations**: Identified Property insurance as the highest-expiring category (134 policies expiring in 2026), providing underwriters with proactive renewal targeting.
+- **Dashboards**: Created customer demographic profiles, premium-to-claim ratio metrics, and renewal forecast charts in Power BI & Tableau.
+
+---
+
+### 4. 🎬 Movie Industry Correlation & Revenue Analysis
+> **Statistical EDA & Correlation Modeling** • *Python, Pandas, Seaborn, Matplotlib*
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/sanjaybalan3294/Movie-Correlation-Analysis-Python)
+
+- **Objective**: Identify key economic and popularity factors that correlate with gross box office earnings.
+- **EDA & Cleaning**: Handled missing values, treated outliers, verified data types, and parsed release metrics.
+- **Correlation Findings**: Discovered that **Production Budget** has the strongest positive correlation (**r = 0.74**) with gross revenue, followed by **Audience Votes** (**r = 0.61**).
+- **Visuals**: Plotted correlation heatmaps, regression lines, and pairwise scatter distributions.
+
+---
+
+## 📈 GitHub Activity & Streak
+
+<div align="center">
+  <a href="https://github.com/sanjaybalan3294">
+    <img src="https://streak-stats.demolab.com?user=sanjaybalan3294&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I am always excited to discuss data analytics, business intelligence projects, or career opportunities.
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-balan/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sanjay-balan-portfolio.vercel.app)
+  [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaybalan3294@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjaybalan3294)
+
+</div>
+
+<br>
 
 <p align="center">
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=sanjaybalan3294&theme=dark" alt="GitHub Streak" />
+  <i>"Turning raw data into predictive intelligence and actionable business decisions."</i>
 </p>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sanjay-balan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sanjay%20Balan-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/sanjaybalan3294" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-sanjaybalan3294-black?style=flat&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:sanjaybalan3294@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sanjaybalan3294%40gmail.com-red?style=flat&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://sanjay-balan-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=vercel" alt="Portfolio" />
-  </a>
-</p>
-
----
-
-<p align="center"><i>Open to Data Analyst opportunities — always happy to connect and discuss data!</i></p>
