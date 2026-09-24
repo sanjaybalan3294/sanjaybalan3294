@@ -7,7 +7,7 @@
   </a>
 
   <p align="center">
-    <b>Aspiring Data Analyst | SQL • Power BI • Tableau • Python • Machine Learning</b><br>
+    <b> Data Analyst | SQL • Power BI • Tableau • Python • Machine Learning(Basics)</b><br>
     <i>Turning raw data into predictive intelligence, intuitive dashboards, and high-impact business decisions.</i>
   </p>
 
