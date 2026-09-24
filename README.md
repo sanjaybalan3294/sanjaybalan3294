@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/sanjay-balan/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://sanjay-balan-portfolio.vercel.app" target="_blank">
+    <a href="https://sanjaybalan3294-github-io.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:sanjaybalan3294@gmail.com" target="_blank">
@@ -141,7 +141,7 @@ I am always excited to discuss data analytics, business intelligence projects, o
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-balan/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sanjay-balan-portfolio.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sanjaybalan3294-github-io.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaybalan3294@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjaybalan3294)
 
