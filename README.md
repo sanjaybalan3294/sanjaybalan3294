@@ -3,12 +3,12 @@
   <h1>Hey there, I'm <span style="color: #2563EB;">Sanjay Balan</span> 👋</h1>
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=45&lines=Data+Analyst+%7C+BI+%26+Analytics+Specialist;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python;Turning+Data+into+Actionable+Business+Decisions;AICTE+%7C+IBM+SkillsBuild+Project+Alum" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=680&height=45&lines=Data+Analyst+%7C+BI+%26+Analytics+Specialist;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python;Banking+Risk+%E2%80%A2+HR+Analytics+%E2%80%A2+Insurance+BI;AICTE+%7C+IBM+SkillsBuild+Project+Alum" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b> Data Analyst | SQL • Power BI • Tableau • Python • Machine Learning(Basics)</b><br>
-    <i>Turning raw data into predictive intelligence, intuitive dashboards, and high-impact business decisions.</i>
+    <b>Data Analyst | SQL • Power BI • Tableau • Python • Machine Learning(Basics)</b><br>
+    <i>Turning complex institutional and enterprise data into predictive intelligence, interactive dashboards, and actionable business decisions.</i>
   </p>
 
   <p align="center">
@@ -38,15 +38,16 @@
 
 ## 📌 About Me
 
-I am a results-oriented **Data Analyst** passionate about transforming complex datasets into clear, actionable business strategies. With hands-on experience spanning end-to-end data analytics pipelines, exploratory data analysis (EDA), relational databases, and predictive modeling, I bridge the gap between technical data and executive decision-making.
+I am a results-oriented **Data Analyst** passionate about transforming complex datasets into clear, actionable business strategies. With hands-on experience spanning end-to-end data analytics pipelines, relational databases, exploratory data analysis (EDA), interactive BI dashboards, and predictive modeling, I bridge the gap between technical data and executive decision-making.
 
+- 🏛️ **Enterprise Banking & Credit Risk Analytics**: Engineered a full-scale Banking Decision Management platform analyzing **165,535 records**, **$434.81M+ in lending exposure**, and **$254.89M in retail cash flows** with MySQL, Python (Pandas/SQLAlchemy), and Tableau Public.
 - 💼 **Industry Experience**: Completed a 6-month Data Analyst Internship at **Ai Variant**, analyzing **54,771 client sales transactions** across **17,935 customers** and **606 products**. Standardized regional reporting and automated repetitive workflows using advanced Excel (XLOOKUP, Pivot Tables, calculated fields).
-- 🏛️ **IBM SkillsBuild / AICTE Capstone**: Architected and deployed the **AI Workforce Intelligence & Disruption Analytics** system—executing a 4-Tier Analytics Ladder on **30,000 labor records** with Scikit-learn predictive models and an interactive Streamlit intelligence app.
+- 🌐 **IBM SkillsBuild / AICTE Capstone**: Architected and deployed the **AI Workforce Intelligence & Disruption Analytics** system—executing a 4-Tier Analytics Ladder on **30,000 labor records** with Scikit-learn predictive models and an interactive Streamlit intelligence app.
 - 🎓 **Education & Certifications**: 
   - **B.E. in Computer Science and Technology** – SNS College of Engineering
   - **Certified Data Analyst** – Cohort 3 Program
   - **AICTE | IBM SkillsBuild Internship Certificate**
-- 🎯 **Core Focus**: Business Intelligence, Exploratory Data Analysis, KPI Architecture, Predictive Modeling, and Executive Dashboarding.
+- 🎯 **Core Focus**: Business Intelligence, Credit Risk Analytics, Exploratory Data Analysis, KPI Architecture, Predictive Modeling, and Executive Dashboarding.
 - 🌍 **Current Status**: Based in Coimbatore, Tamil Nadu, India — actively pursuing full-time Data Analyst opportunities in **India, UAE, and Remote worldwide**.
 
 ---
@@ -61,18 +62,32 @@ I am a results-oriented **Data Analyst** passionate about transforming complex d
 
 | Domain | Technologies & Competencies |
 | :--- | :--- |
-| **Languages & Querying** | Python (3.12), SQL (MySQL), DAX, Power Query (M) |
-| **Business Intelligence** | Microsoft Power BI, Tableau Desktop & Public, Interactive Dashboards |
-| **Data Science & ML** | Pandas, NumPy, Scikit-Learn, Streamlit, Matplotlib, Seaborn |
+| **Languages & Querying** | Python (3.10–3.12), SQL (MySQL 8.0, PostgreSQL), DAX, Power Query (M) |
+| **Business Intelligence** | Microsoft Power BI, Tableau Desktop & Public, Interactive Dashboards, KPI Cards |
+| **Data Science & ML** | Pandas, NumPy, Scikit-Learn, Streamlit, Matplotlib, Seaborn, SQLAlchemy |
 | **Spreadsheets & Reporting**| Microsoft Excel (Advanced formulas, XLOOKUP, Pivot Tables, Data Modeling) |
-| **Core Methodologies** | Exploratory Data Analysis (EDA), Statistical & Correlation Analysis, ETL, Data Cleaning |
+| **Core Methodologies** | Credit Risk Modeling, Liquidity Surveillance, AML Compliance Rules, EDA, ETL Pipelines |
 | **Tools & Platforms** | Git, GitHub, VS Code, Jupyter Notebook, Google Colab |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. 🌐 AI Workforce Intelligence & Disruption Analytics
+### 1. 🏛️ Enterprise Banking Decision Management & Credit Risk Analytics Platform
+> **Financial Risk & Liquidity Intelligence** • *Python (Pandas, SQLAlchemy), MySQL 8.0, Tableau Public, Advanced Excel*
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-2563EB?style=flat-square&logo=github)](https://github.com/sanjaybalan3294/Enterprise-Credit-Risk-Loan-Portfolio-Intelligence)
+[![Tableau](https://img.shields.io/badge/Tableau%20Public-Interactive_Dashboard-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/)
+
+- **Scale & Scope**: Ingested, cleaned, standardized, and modeled **165,535 records** spanning **$434.81M+** in funded lending exposure (65,535 loans) and **$254.89M** in retail cash flows across 6 regional bank branches.
+- **Credit Risk Delinquency Surge**: Discovered that while baseline default rates remain between 2.38% and 2.96%, **delinquency rates surge 6.6x** from Grade A (3.92%) to Grade G (25.95%).
+- **Branch Liquidity Surveillance**: Uncovered extreme intraday liquidity asymmetry—East Branch holds a **+$354,910.69** idle cash surplus while Main Branch suffers a **-$246,036.27** operational deficit.
+- **AML Compliance Rule**: Flagged **5,252 high-risk outbound debit transfers** exceeding the $4,500 threshold using Citi Decision Management logic.
+- **Interactive Tableau Dashboard**: Built executive risk heatmaps, loan grade breakdowns, and branch cash-flow surveillance dashboards.
+
+---
+
+### 2. 🌐 AI Workforce Intelligence & Disruption Analytics
 > **Flagship AICTE | IBM SkillsBuild Project** • *Python, Scikit-Learn, Streamlit, Pandas, NumPy*
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-2563EB?style=flat-square&logo=github)](https://github.com/sanjaybalan3294/AI-Workforce-Analytics-Job-Disruption-Intelligence)
@@ -84,8 +99,8 @@ I am a results-oriented **Data Analyst** passionate about transforming complex d
 
 ---
 
-### 2. 👥 HR Workforce & Attrition Analytics Suite
-> **Cross-Platform Analytics** • *MySQL, Power BI, Tableau*
+### 3. 👥 HR Workforce & Attrition Analytics Suite
+> **Cross-Platform Organizational Analytics** • *MySQL, Power BI, Tableau*
 
 [![SQL Repo](https://img.shields.io/badge/SQL-View_Project-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/sanjaybalan3294/HR-Analytics-SQL)
 [![Power BI Repo](https://img.shields.io/badge/Power_BI-View_Project-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/sanjaybalan3294/HR-Analytics-PowerBI)
@@ -98,7 +113,7 @@ I am a results-oriented **Data Analyst** passionate about transforming complex d
 
 ---
 
-### 3. 🛡️ Insurance Portfolio Risk & Claims Analytics
+### 4. 🛡️ Insurance Portfolio Risk & Claims Analytics
 > **Actuarial & Business Intelligence** • *MySQL, Power BI, Tableau*
 
 [![SQL Repo](https://img.shields.io/badge/SQL-View_Project-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/sanjaybalan3294/Insurance-Analytics-SQL)
@@ -112,8 +127,8 @@ I am a results-oriented **Data Analyst** passionate about transforming complex d
 
 ---
 
-### 4. 🎬 Movie Industry Correlation & Revenue Analysis
-> **Statistical EDA & Correlation Modeling** • *Python, Pandas, Seaborn, Matplotlib*
+### 5. 🎬 Movie Industry Correlation & Revenue Analysis
+> **Statistical EDA & Econometric Modeling** • *Python, Pandas, Seaborn, Matplotlib*
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/sanjaybalan3294/Movie-Correlation-Analysis-Python)
 
@@ -150,5 +165,5 @@ I am always excited to discuss data analytics, business intelligence projects, o
 <br>
 
 <p align="center">
-  <i>"Turning raw data into predictive intelligence and actionable business decisions."</i>
+  <i>"Turning complex institutional and enterprise data into predictive intelligence and actionable business decisions."</i>
 </p>
